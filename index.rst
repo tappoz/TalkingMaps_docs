@@ -4,6 +4,13 @@
 Talking Maps
 ############
 
+
+.. toctree:: 
+    :maxdepth: 2
+    :hidden:
+
+    install
+
 What is it?
 
 \ |IMG1|\ 
