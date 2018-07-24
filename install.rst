@@ -1,4 +1,8 @@
-\ |STYLE0|\ 
+
+.. _h2763d3c704a183b3011673c5443:
+
+Installing
+~~~~~~~~~~
 
 Copy the folder project…
 
@@ -15,23 +19,15 @@ Donec sed felis bibendum, dictum nibh eu, dapibus sem. Pellentesque et imperdiet
 Step 1
 ^^^^^^
 
-.. _h1d1a2f284b7618573f77713674f2e64:
-
-Step 2
-^^^^^^
-
 \ |IMG1|\ 
 
-.. _h2d5c1c26423e12162cd576933751b27:
+.. _h2c1d74277104e41780968148427e:
 
-Step 3
-^^^^^^
+
+
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Installing**
 
 .. |IMG1| image:: static/install_1.png
    :height: 57 px
