@@ -3,6 +3,7 @@ Future Developing
 ================
 
 To do list
+-----------
 
 * fiwh
 
@@ -12,7 +13,8 @@ To do list
 
 * …
 
-**How to contribute**
+How to contribute
+---------------
 
 feel free to contribute to the project
 
