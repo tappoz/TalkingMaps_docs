@@ -1,6 +1,6 @@
 
 Installing
-~~~~~~~~~~
+========
 
 Copy the folder project…
 
