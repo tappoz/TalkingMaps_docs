@@ -1,6 +1,4 @@
 
-.. _h2763d3c704a183b3011673c5443:
-
 Installing
 ~~~~~~~~~~
 
@@ -14,15 +12,12 @@ Nam dui magna, dignissim mattis massa vitae, aliquam mattis elit. Nullam eget fe
 
 Donec sed felis bibendum, dictum nibh eu, dapibus sem. Pellentesque et imperdiet dolor, ac aliquam arcu. Donec in eleifend nibh. Vestibulum facilisis fringilla velit a mattis. Maecenas malesuada et ipsum eget tincidunt. Quisque vel neque quis magna scelerisque egestas. Maecenas in diam porttitor, semper mauris ac, ullamcorper velit. Donec dui neque, lobortis vitae commodo vitae, volutpat id metus. Morbi placerat tortor ac ornare consectetur. Donec a mauris sagittis, interdum ex in, aliquam lacus. In hac habitasse platea dictumst. Vivamus in elit lobortis, bibendum felis non, vulputate ligula. Cras placerat cursus neque, in volutpat tellus maximus eget. Aenean tristique urna tortor, ut vestibulum felis sagittis condimentum. Suspendisse scelerisque, turpis sit amet bibendum placerat, justo felis placerat enim, a elementum sem turpis eu risus. Fusce sit amet urna quis magna volutpat mollis eu finibus lorem.
 
-.. _h6f4a225b2940695663301c471fc547f:
+
 
 Step 1
 ^^^^^^
 
 \ |IMG1|\ 
-
-.. _h2c1d74277104e41780968148427e:
-
 
 
 
