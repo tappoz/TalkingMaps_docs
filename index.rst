@@ -1,34 +1,8 @@
 
+.. _h66383b526c4fc21307e6e4f466156d:
 
-Talking Maps
-############
-
-
-.. toctree:: 
-    :maxdepth: 2
-    :hidden:
-
-    index
-        
-  
-.. toctree::
-   :maxdepth: 2
-      
-   install
-   
-
-.. toctree::
-   :maxdepth: 2
-   
-   developing
-   
-.. toctree::
-  :glob:
-  :includehidden: Home <https://talkingmaps-docs.readthedocs.io/en/latest/>
-
-
-
-What is it?
+Talink Maps
+~~~~~~~~~~~
 
 \ |IMG1|\ 
 
@@ -47,9 +21,6 @@ How to Edit content
 
 \ |IMG2|\ 
 
-The Team
-
-Tenz
 
 .. bottom of content
 
