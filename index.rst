@@ -9,6 +9,7 @@ Home Page
 
    project
    install
+   user_guide
    developing
   
 
