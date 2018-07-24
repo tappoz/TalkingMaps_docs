@@ -22,7 +22,7 @@ Talking Maps
 
     Duccio&BudSpencer
 
-.. _h35a574d1748364c28301d3544317442:
+
 
 How to edit content
 
