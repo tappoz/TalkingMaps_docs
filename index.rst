@@ -10,13 +10,6 @@ Talking Maps
 
     index
         
-
-
-
-.. toctree::
-  :maxdepth: 2
- 
-  Home <https://talkingmaps-docs.readthedocs.io/en/latest/>
   
 .. toctree::
    :maxdepth: 2
