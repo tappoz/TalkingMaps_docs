@@ -1,8 +1,4 @@
-
-.. _h60c64e283b60796a41554275f7c:
-
-Future developing
-#################
+Future Developing
 
 .. _h18162847b7f3f7391e2a5a7723156d:
 
@@ -24,5 +20,6 @@ How to contribute
 
 feel free to contribute to the project
 
+devel
 
 .. bottom of content
