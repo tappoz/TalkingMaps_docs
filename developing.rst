@@ -1,6 +1,6 @@
 
 
-|Future Developing|
+**Future Developing**
 
 To do list
 
@@ -12,7 +12,7 @@ To do list
 
 * …
 
-How to contribute
+**How to contribute**
 
 feel free to contribute to the project
 
