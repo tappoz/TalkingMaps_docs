@@ -1,6 +1,7 @@
 
 
-**Talking Maps**
+Talking Maps
+============
 
 .. toctree:: 
     :maxdepth: 3
