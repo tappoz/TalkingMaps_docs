@@ -9,6 +9,7 @@ Talking Maps
     :maxdepth: 2
     :hidden:
 
+    index
     install
 
 What is it?
