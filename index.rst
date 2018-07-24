@@ -35,6 +35,7 @@ Talking Maps
 
 
 *How to edit content*
+-----------
 
 \ |IMG2|\ 
 
