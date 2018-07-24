@@ -1,6 +1,4 @@
-
-How to install
-##############
+\ |STYLE0|\ 
 
 Copy the folder project…
 
@@ -31,6 +29,9 @@ Step 3
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Installing**
 
 .. |IMG1| image:: static/install_1.png
    :height: 57 px
