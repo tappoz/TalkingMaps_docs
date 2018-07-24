@@ -1,12 +1,13 @@
 
 
-Talking Maps
+Home Page
 ============
 
 .. toctree::
    :caption: Talking Maps
    :maxdepth: 2
 
+   index
    install
    developing
   
