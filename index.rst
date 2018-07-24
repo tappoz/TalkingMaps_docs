@@ -8,7 +8,17 @@ Talking Maps
     :hidden:
 
     index
+    
+.. toctree:: 
+    :maxdepth: 3
+    :hidden:
+    
     install
+    
+.. toctree:: 
+    :maxdepth: 3
+    :hidden:
+    
     developing
         
 
