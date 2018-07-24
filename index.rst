@@ -9,7 +9,31 @@ Talking Maps
     :hidden:
 
     index
-    install    
+        
+
+
+
+.. toctree::
+  :maxdepth: 2
+ 
+  Home <https://talkingmaps-docs.readthedocs.io/en/latest/>
+  
+.. toctree::
+   :maxdepth: 2
+      
+   install
+   
+
+.. toctree::
+   :maxdepth: 2
+   
+   developing
+   
+.. toctree::
+  :glob:
+  :includehidden: Home <https://talkingmaps-docs.readthedocs.io/en/latest/>
+
+
 
 What is it?
 
