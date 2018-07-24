@@ -10,6 +10,12 @@ Talking Maps
     :hidden:
 
     index
+
+
+.. toctree:: 
+    :maxdepth: 2
+    :hidden:
+
     install
 
 What is it?
