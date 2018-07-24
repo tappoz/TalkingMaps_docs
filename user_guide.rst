@@ -1,13 +1,14 @@
 \ |STYLE0|\ 
+============
 
 The layout: Floating content and main content
-
+--------------------------------------------
 How to add and customize a new slide
-
+--------------------------------------------
 Edit slide content
-
+--------------------------------------------
 Floating content:
-
+--------------------------------------------
  General options
 
 \ |IMG1|\ 
@@ -17,7 +18,7 @@ Text
 Map
 
 Main content
-
+------------
 iframe
 
 Text
