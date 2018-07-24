@@ -13,9 +13,11 @@ Nam dui magna, dignissim mattis massa vitae, aliquam mattis elit. Nullam eget fe
 Donec sed felis bibendum, dictum nibh eu, dapibus sem. Pellentesque et imperdiet dolor, ac aliquam arcu. Donec in eleifend nibh. Vestibulum facilisis fringilla velit a mattis. Maecenas malesuada et ipsum eget tincidunt. Quisque vel neque quis magna scelerisque egestas. Maecenas in diam porttitor, semper mauris ac, ullamcorper velit. Donec dui neque, lobortis vitae commodo vitae, volutpat id metus. Morbi placerat tortor ac ornare consectetur. Donec a mauris sagittis, interdum ex in, aliquam lacus. In hac habitasse platea dictumst. Vivamus in elit lobortis, bibendum felis non, vulputate ligula. Cras placerat cursus neque, in volutpat tellus maximus eget. Aenean tristique urna tortor, ut vestibulum felis sagittis condimentum. Suspendisse scelerisque, turpis sit amet bibendum placerat, justo felis placerat enim, a elementum sem turpis eu risus. Fusce sit amet urna quis magna volutpat mollis eu finibus lorem.
 
 
+|step 1|
 
-Step 1
-^^^^^^
+Step2
+
+Step3
 
 \ |IMG1|\ 
 
