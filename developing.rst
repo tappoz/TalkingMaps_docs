@@ -5,11 +5,19 @@ Future Developing
 To do list
 -----------
 
-* fiwh
+* remove maps etc.. content on deleting slide
 
-* regjià
+* iframe x qgisweb
 
-* regoù
+* on create map >> select an existing map i.e. clone parameters (same fx)
+
+* populate map parameters when open slide with existing map (same fx)
+
+* write maps to db
+
+* read maps and contents from db (4 rendering)
+
+* add story_id in the url
 
 * …
 
