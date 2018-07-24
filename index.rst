@@ -1,7 +1,6 @@
 
 
-Talking Maps
-~~~~~~~~~~~
+**Talking Maps**
 
 .. toctree:: 
     :maxdepth: 3
@@ -24,7 +23,7 @@ Talking Maps
 
 
 
-How to edit content
+*How to edit content*
 
 \ |IMG2|\ 
 
