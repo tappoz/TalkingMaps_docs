@@ -1,30 +1,16 @@
 
-.. _h66383b526c4fc21307e6e4f466156d:
 
 Talking Maps
 ~~~~~~~~~~~
 
 .. toctree:: 
-    :maxdepth: 2
+    :maxdepth: 3
     :hidden:
 
     index
+    install
+    developing
         
-  
-.. toctree::
-   :maxdepth: 2
-      
-   install
-   
-
-.. toctree::
-   :maxdepth: 2
-   
-   developing
-   
-.. toctree::
-  :glob:
-  :includehidden: Home <https://talkingmaps-docs.readthedocs.io/en/latest/>
 
 \ |IMG1|\ 
 
