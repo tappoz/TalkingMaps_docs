@@ -1,7 +1,6 @@
 
 
-Future Developing
-~~~~~~~~~~~~~~~~~
+|Future Developing|
 
 To do list
 
