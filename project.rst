@@ -29,12 +29,6 @@ It is possible to view the online demo at this link: https://tenz-development-te
 
 
 
-*How to edit content*
------------
-
-\ |IMG2|\ 
-
-
 .. bottom of content
 
 .. |IMG1| image:: static/index_1.png
