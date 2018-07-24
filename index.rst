@@ -3,23 +3,14 @@
 Talking Maps
 ============
 
-.. toctree:: 
-    :maxdepth: 3
-    :hidden:
+.. toctree::
+   :caption: Talking Maps
+   :maxdepth: 2
 
-    index
-    
-.. toctree:: 
-    :maxdepth: 3
-    :hidden:
-    
-    install
-    
-.. toctree:: 
-    :maxdepth: 3
-    :hidden:
-    
-    developing
+   install
+   developing
+  
+
         
 
 \ |IMG1|\ 
