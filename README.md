@@ -1,5 +1,6 @@
 # TalkingMaps_docs
-Docs of TalkinMaps project
+Docs of TalkingMaps project
 
-Demo
+View the documentation at:
+
 https://talkingmaps-docs.readthedocs.io/
