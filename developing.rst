@@ -19,6 +19,14 @@ To do list
 
 7. Logo/Title option Display/hide for each slide >> all options should refers to each single slide
 
+8. TABS will be:  
+    * Options [general + text(main) + text(floating) + ... ]
+    * Map (main)
+    * Map (floating)
+    * Image
+    * iFrame
+    * QgisWeb iFrame
+
 * …
 
 How to contribute
