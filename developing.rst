@@ -25,7 +25,7 @@ To do list
     * Map (floating)
     * Image
     * iFrame
-    * QgisWeb iFrame
+    * Qgis2Web iFrame
 
 * …
 
