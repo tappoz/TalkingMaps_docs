@@ -13,6 +13,12 @@ To do list
 
 4. read maps and contents from db (4 rendering)
 
+5. CKEDITOR inline editor only! >> remove textareas and f(x)
+
+6. Add Save Button to export db
+
+7. Logo/Title option Display/hide for each slide >> all options should refers to each single slide
+
 * …
 
 How to contribute
