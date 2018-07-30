@@ -9,17 +9,13 @@ To do list
 
 2. write maps to db
 
-3. add story_id in the url
+3. read maps and contents from db (4 rendering)
 
-4. read maps and contents from db (4 rendering)
+4. Add Save Button to export db
 
-5. CKEDITOR inline editor only! >> remove textareas and f(x)
+5. Logo/Title option Display/hide for each slide >> all options should refers to each single slide
 
-6. Add Save Button to export db
-
-7. Logo/Title option Display/hide for each slide >> all options should refers to each single slide
-
-8. TABS will be:  
+6. TABS will be:  
     * Options [general + text(main) + text(floating) + ... ]
     * Map (main)
     * Map (floating)
@@ -37,6 +33,8 @@ feel free to contribute to the project
 
 Done
 ---------------
+* CKEDITOR inline editor only! >> remove textareas and f(x)
+* add story_id in the url
 * on create map >> select an existing map i.e. clone parameters (same fx)
 * remove maps etc.. content on deleting slide (remove also from floating content to do later)
 * populate map parameters when open slide with existing map (same fx)
