@@ -7,21 +7,17 @@ To do list
 
 1. iframe x qgisweb
 
-2. write maps to db
+2. write/read talkingstory objects to/from db
 
-3. read maps and contents from db (4 rendering)
+3. Save Button triggers both save to local storage and db
 
-4. Add Save Button to export db
-
-5. Logo/Title option Display/hide for each slide >> all options should refers to each single slide
-
-6. TABS will be:  
+3. TABS will be:  
     * Options [general + text(main) + text(floating) + ... ]
+    * Map (floating)  TODO!!!
     * Map (main)
-    * Map (floating)
-    * Image
     * iFrame
     * Qgis2Web iFrame
+    * Image / video (+ image animation/transitions)
 
 * …
 
@@ -33,6 +29,7 @@ feel free to contribute to the project
 
 Done
 ---------------
+* Logo/Title option Display/hide for each slide >> all options should refers to each single slide
 * CKEDITOR inline editor only! >> remove textareas and f(x)
 * add story_id in the url
 * on create map >> select an existing map i.e. clone parameters (same fx)
