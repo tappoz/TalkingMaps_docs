@@ -15,7 +15,7 @@ we wanted to create an editor for storymaps that was easy to customize, easy to 
 Online DEMO
 ---------
 
-It is possible to view the online demo at this link: https://tenz-development-tenz.c9users.io/talkingmaps/
+It is possible to view the online demo at this link: http://212.237.232.12/  or visit the website at http://212.237.232.12/site
 
 
 
