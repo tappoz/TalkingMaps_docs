@@ -1,3 +1,6 @@
+License 
+============
+
 TalkingMaps is provided under License  \ |STYLE0|\ 
 
 \ |IMG1|\ 
