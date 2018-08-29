@@ -11,7 +11,7 @@ Home Page
    install
    user_guide
    developing
-   License
+   license
   
 
     
