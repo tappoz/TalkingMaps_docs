@@ -3,6 +3,11 @@
 
 The layout: Floating content and main content
 --------------------------------------------
+
+Lorem Ipsum
+
+
+
 How to add and customize a new slide
 --------------------------------------------
 Edit slide content
@@ -31,7 +36,7 @@ Map
 .. bottom of content
 
 
-.. |STYLE0| replace:: **How to create your first Storymap**
+.. |STYLE0| replace:: **How to create your first TalkingMap**
 
 .. |IMG1| image:: static/user_guide_1.png
    :height: 389 px
