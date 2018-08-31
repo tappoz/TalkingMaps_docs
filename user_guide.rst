@@ -1,4 +1,4 @@
-How To Create your first TalkingMap \ |STYLE0|\ 
+\ |STYLE0|\ 
 ========
 
 
