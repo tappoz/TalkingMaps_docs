@@ -18,7 +18,7 @@ If you are using our online editor, to add an ID you can simply enter the name i
 
 ..  Note:: 
 
-    The TlakingMapID should follows the Snake_case convention: avoid spaces or special characters.
+    The TalkingMapID should follows the Snake_case convention: avoid spaces or special characters.
 
 If you are not using our online editor, to assign an id you can just add, at the end of the address of your server:
 
