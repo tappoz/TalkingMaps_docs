@@ -37,6 +37,9 @@ The main template is divided in two parts:
 
 * Main Content
 
+The floating content is the left-side bar on your map. On the floating content you can add your personal logo, a title and a description for your TalkingMap and you can add images, and all
+
+
 How to add and customize a new slide
 -----
 Edit slide content
