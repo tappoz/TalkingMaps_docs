@@ -1,4 +1,6 @@
-\ |STYLE0|\ 
+How To Create your first TalkingMap \ |STYLE0|\ 
+========
+
 
 First of all you need a story to tell. 
 
@@ -27,6 +29,7 @@ If you are not using our online editor, to assign an id you can just add, at the
 \ |IMG2|\ 
 
 The layout: Floating content and main content
+-----
 
 The main template is divided in two parts:
 
@@ -35,13 +38,13 @@ The main template is divided in two parts:
 * Main Content
 
 How to add and customize a new slide
-
+-----
 Edit slide content
-
+-----
 Floating content:
-
+-----
  General options
-
+-----
 \ |IMG3|\ 
 
 Text
