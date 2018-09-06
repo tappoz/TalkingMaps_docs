@@ -9,7 +9,7 @@ The Project
 Why?
 -----
 	
-we wanted to create an editor for storymaps that was easy to customize, easy to share and easily integrated with QGIS maps and other web resources.
+We wanted to create an editor for storymaps that was easy to customize, easy to share and easily integrated with QGIS maps and other web resources, and, obviously, totally Open Source.
 
 
 Online DEMO
