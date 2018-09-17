@@ -9,12 +9,12 @@ Project Folder
 
 The project folder is composed by the following subfolders:
 
-*css
-*db
-*iframe
-*js
-*libs
-*templates
+-css
+-db
+-iframe
+-js
+-libs
+-templates
 
 
 
