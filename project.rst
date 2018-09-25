@@ -14,16 +14,13 @@ We wanted to create an editor for storymaps that was easy to customize, easy to 
 
 Quick Overview
 --------------
-[![alt text]([IMG3])](https://www.youtube.com/embed/yVUNINAnIYI "overview")
+[![alt text](\[IMG3]\)](https://www.youtube.com/embed/yVUNINAnIYI "overview")
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yVUNINAnIYI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 Online DEMO
 ---------
 
-It is possible to view the online demo at http://212.237.232.12/
+It is possible to view the online demo at http://www.talkingmaps.eu
 
 In order to create a new TalkingMap follow the instruction.
 
