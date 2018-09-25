@@ -14,7 +14,8 @@ We wanted to create an editor for storymaps that was easy to customize, easy to 
 
 Quick Overview
 --------------
-.. raw:: 
+[![alt text]([IMG3])](https://www.youtube.com/embed/yVUNINAnIYI "overview")
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVUNINAnIYI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -42,3 +43,5 @@ In order to create a new TalkingMap follow the instruction.
 .. |IMG2| image:: static/index_2.png
    :height: 416 px
    :width: 601 px
+
+.. |IMG3| image:: static/overview.JPG
