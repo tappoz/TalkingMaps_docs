@@ -19,6 +19,8 @@ Quick Overview
 https://www.youtube.com/embed/yVUNINAnIYI
 
 
+[![Overview](http://img.youtube.com/vi/yVUNINAnIYI/0.jpg)](http://www.youtube.com/watch?v=yVUNINAnIYI "TalkingMaps Overview")
+
 Online DEMO
 ---------
 
