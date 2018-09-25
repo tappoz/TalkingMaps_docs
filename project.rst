@@ -14,8 +14,8 @@ We wanted to create an editor for storymaps that was easy to customize, easy to 
 
 Quick Overview
 --------------
-[video youtube](https://www.youtube.com/embed/yVUNINAnIYI)
 
+[![overview](https://github.com/fgianoli/TalkingMaps_docs/blob/master/static/overview.JPG?raw=true)](https://www.youtube.com/embed/yVUNINAnIYI "overview")
 
 Online DEMO
 ---------
