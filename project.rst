@@ -14,8 +14,8 @@ We wanted to create an editor for storymaps that was easy to customize, easy to 
 
 Quick Overview
 --------------
+[video youtube](https://www.youtube.com/embed/yVUNINAnIYI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yVUNINAnIYI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Online DEMO
 ---------
