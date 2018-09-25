@@ -14,7 +14,9 @@ We wanted to create an editor for storymaps that was easy to customize, easy to 
 
 Quick Overview
 --------------
-[![alt text](\[IMG3]\)](https://www.youtube.com/embed/yVUNINAnIYI "overview")
+
+\ |IMG3|\ 
+https://www.youtube.com/embed/yVUNINAnIYI
 
 
 Online DEMO
