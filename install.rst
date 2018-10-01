@@ -16,6 +16,10 @@ The project folder is composed by the following subfolders:
 -libs
 -templates
 
+==========
+# CLONE FROM GITLAB
+
+git clone git@gitlab.com:fritz4/talkingmaps.git
 
 
 |step 1|
