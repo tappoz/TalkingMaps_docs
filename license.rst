@@ -3,7 +3,7 @@ License
 
 We choose the GNU Public License V. 3.
 Here you can find the complete license: https://www.gnu.org/licenses/gpl-3.0.html 
-
+If you are not sure about what you can do with this code, write us!
 
 
 
