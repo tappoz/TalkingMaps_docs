@@ -1,5 +1,4 @@
-Installation
-============
+# Installation
 
 TalkingMaps is developed entirely in Javascript and does not require special installations,
 simply copy the project folder within your website and everything will work.
@@ -11,10 +10,10 @@ git clone git@gitlab.com:fritz4/talkingmaps.git
 cd talkingmaps
 python -m http.server
 ```
-Then visit with your favourite browser the URL `http://0.0.0.0:8000/` served by the Python module.
 
-Project Folder
---------------
+Then visit with your favourite browser the URL `http://0.0.0.0:8000/` where the Python module is listening and will serve the website content via HTTP.
+
+## Project Folder
 
 The project folder is composed by the following subfolders:
 

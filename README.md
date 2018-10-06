@@ -1,6 +1,7 @@
-# TalkingMaps_docs
-Docs of TalkingMaps project
+![TalkingMaps](./static/tm_logo.png)
 
-View the documentation at:
+Welcome to the documentation of Talking Maps project.
+This project is developed by Martino Boni and Federico Gianoli.
 
-https://talkingmaps-docs.readthedocs.io/
+- [Project overview](project.md)
+- [Installation process](install.md)
